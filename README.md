@@ -15,4 +15,4 @@ This can be achieved with,
 - Java
 - Tensorflow Lite
 - Firebase
-- Obviously, your support and suggesstions.
+- Obviously, your support and suggesstions
