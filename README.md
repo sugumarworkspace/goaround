@@ -1,4 +1,4 @@
-# GoAround - Make a move, bring your real world into game.
+# GoAround - Make a move, bring your real world into the game.
 Goaround is a small start which is being inspired from the Digital Well being experiments initiated by google recently.
 
 # What it is?
