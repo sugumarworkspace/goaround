@@ -11,7 +11,7 @@ To be concise, It is a kind of treasure hunt or puzzle. But you have to **go aro
 
 # How it can be done?
 This can be achieved with,
-- A cup of coffee (Just for fun)
+- Few cups of coffee
 - Java
 - Tensorflow Lite
 - Firebase
