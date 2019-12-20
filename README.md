@@ -17,7 +17,7 @@ This can be achieved with,
 - Firebase
 - Obviously, your support and suggesstions
 
-#v1.0
+# v1.0
 Base version. Will catch your devices soon from play store.
 - Tap the screen to bring your real world into game.
 ![Home](https://github.com/sugumarworkspace/goaround/blob/master/screenshots/home.png)
