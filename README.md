@@ -16,3 +16,12 @@ This can be achieved with,
 - Tensorflow Lite
 - Firebase
 - Obviously, your support and suggesstions
+
+#v1.0
+Base version. Will catch your devices soon from play store.
+- Tap the screen to bring your real world into game.
+![Home](https://github.com/sugumarworkspace/goaround/blob/master/screenshots/home.png)
+- Go around and search for the items in the list. Focus the camera and tap on top of the name.
+![Go 1](https://github.com/sugumarworkspace/goaround/blob/master/screenshots/go_1.png)
+- Swipe up to see what it is happening in the background.
+![Go 2](https://github.com/sugumarworkspace/goaround/blob/master/screenshots/go_2.png)
