@@ -19,9 +19,15 @@ This can be achieved with,
 
 # v1.0
 Base version.
-- Tap the screen to bring your real world into game.
-![Home](https://github.com/sugumarworkspace/goaround/blob/master/screenshots/home.png)
-- Go around and search for the items in the list. Focus the camera and tap on top of the name.
-![Go 1](https://github.com/sugumarworkspace/goaround/blob/master/screenshots/go_1.png)
-- Swipe up to see what is happening in the background. Here you have captured the laptop, but the game is seeing this as computer keyboard. :-)
-![Go 2](https://github.com/sugumarworkspace/goaround/blob/master/screenshots/go_2.png)
+Tap the screen to bring your real world into game.
+<p align="left">
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/screenshots/home.png" width="256" title="Github Logo">
+</p>
+Go around and search for the items in the list. Focus the camera and tap on top of the name.
+<p align="left">
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/screenshots/go_1.png" width="256" title="Github Logo">
+</p>
+Swipe up to see what is happening in the background. Here you have captured the laptop, but the game is seeing this as computer keyboard. So, adjust the camera angle and capture it again. :-)
+<p align="left">
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/screenshots/go_2.png" width="256" title="Github Logo">
+</p>
