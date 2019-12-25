@@ -23,5 +23,5 @@ Base version.
 ![Home](https://github.com/sugumarworkspace/goaround/blob/master/screenshots/home.png)
 - Go around and search for the items in the list. Focus the camera and tap on top of the name.
 ![Go 1](https://github.com/sugumarworkspace/goaround/blob/master/screenshots/go_1.png)
-- Swipe up to see what is happening in the background.
+- Swipe up to see what is happening in the background. Here you have captured the laptop, but the game is seeing this as computer keyboard. :-)
 ![Go 2](https://github.com/sugumarworkspace/goaround/blob/master/screenshots/go_2.png)
