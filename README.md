@@ -17,8 +17,8 @@ This can be achieved with,
 - Firebase
 - Obviously, your support and suggesstions
 
-# v1.0
-Base version.
+# How will it be?
+
 Tap the screen to bring your real world into game.
 <p align="left">
   <img src="https://github.com/sugumarworkspace/goaround/blob/master/screenshots/home.png" width="256" title="Github Logo">
@@ -31,3 +31,12 @@ Swipe up to see what is happening in the background. Here you have captured the 
 <p align="left">
   <img src="https://github.com/sugumarworkspace/goaround/blob/master/screenshots/go_2.png" width="256" title="Github Logo">
 </p>
+
+# On playstore
+https://play.google.com/store/apps/details?id=tech.plugndo.goaround
+
+# v1.1
+Happy new year. We have added 25 more items for you to hunt. GoAround and get it.
+
+# v1.0
+Base version.
