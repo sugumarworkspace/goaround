@@ -21,19 +21,24 @@ This can be achieved with,
 
 Tap the screen to bring your real world into game.
 <p align="left">
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/screenshots/home.png" width="256" title="Github Logo">
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/home.png" width="256" title="Github Logo">
 </p>
 Go around and search for the items in the list. Focus the camera and tap on top of the name.
 <p align="left">
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/screenshots/go_1.png" width="256" title="Github Logo">
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/screen_1.png" width="256" title="Github Logo">
 </p>
-Swipe up to see what is happening in the background. Here you have captured the laptop, but the game is seeing this as computer keyboard. So, adjust the camera angle and capture it again. :-)
+Auto bubble up to hint if you have captured something, but the game is seeing that as something else. So, adjust the camera angle and capture it again. :-)
 <p align="left">
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/screenshots/go_2.png" width="256" title="Github Logo">
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/screen_2.png" width="256" title="Github Logo">
 </p>
 
 # On playstore
 https://play.google.com/store/apps/details?id=tech.plugndo.goaround
+
+# v1.2 (Under playstore review)
+Start from where you left, we store user name and progress.
+Play any version of mobile, we added legacy camera api support.
+Goaround long, we added few more items to find and hint to bubble up.
 
 # v1.1
 Happy new year. We have added 25 more items for you to hunt. GoAround and get it.
