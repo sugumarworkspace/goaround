@@ -36,9 +36,9 @@ Auto bubble up to hint if you have captured something, but the game is seeing th
 https://play.google.com/store/apps/details?id=tech.plugndo.goaround
 
 # v1.2 (Under playstore review)
-Start from where you left, we store user name and progress.
-Play any version of mobile, we added legacy camera api support.
-Goaround long, we added few more items to find and hint to bubble up.
+- Start from where you left, we store the name and progress.
+- Play any version of mobile, we added legacy camera api support.
+- Goaround long, we added few more items to find and hint to bubble up.
 
 # v1.1
 Happy new year. We have added 25 more items for you to hunt. GoAround and get it.
