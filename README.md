@@ -37,7 +37,7 @@ https://play.google.com/store/apps/details?id=tech.plugndo.goaround
 
 # v1.2 (Under playstore review)
 - Start from where you left, your progress stored.
-- Play any version of mobile, legacy camera api support added.
+- Play in all versions of mobile, legacy camera api support added.
 - Goaround long, few more items added and hint to bubble up.
 
 # v1.1
