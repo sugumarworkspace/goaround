@@ -35,7 +35,7 @@ Auto bubble up to hint if you have captured something, but the game is seeing th
 # On playstore
 https://play.google.com/store/apps/details?id=tech.plugndo.goaround
 
-# v1.2 (Under playstore review)
+# v1.2
 - Start from where you left, your progress stored.
 - Play in all versions of mobile, legacy camera api support added.
 - Goaround long, few more items added and hint to bubble up.
