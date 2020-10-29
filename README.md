@@ -38,6 +38,7 @@ https://play.google.com/store/apps/details?id=tech.plugndo.goaround
 # v1.3 [On the way to play store]
 - Go around with fast nerves, timer added.
 - Skip an item, swipe left/right option enabled.
+  - Find an item quickly to get a bonus skip. 
 - Expect better experience, user interface and android api upgraded.
 
 # v1.2
