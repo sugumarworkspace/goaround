@@ -29,11 +29,16 @@ Go around and search for the items in the list. Focus the camera and tap on top 
 </p>
 Auto bubble up to hint if you have captured something, but the game is seeing that as something else. So, adjust the camera angle and capture it again. :-)
 <p align="left">
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/Screen_2.png" width="256" title="Github Logo">
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/screen_2.png" width="256" title="Github Logo">
 </p>
 
 # On playstore
 https://play.google.com/store/apps/details?id=tech.plugndo.goaround
+
+# v1.3 [On the way to play store]
+- Go around with fast nerves, timer added.
+- Skip an item, swipe left/right option enabled.
+- Expect better experience, user interface and android api upgraded.
 
 # v1.2
 - Start from where you left, your progress stored.
