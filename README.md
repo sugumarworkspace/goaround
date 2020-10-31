@@ -35,7 +35,7 @@ Auto bubble up to hint if you have captured something, but the game is seeing th
 # On playstore
 https://play.google.com/store/apps/details?id=tech.plugndo.goaround
 
-# v1.3 [On the way to play store]
+# v1.3
 - Go around with fast nerves, timer added.
 - Skip an item, swipe left/right option enabled.
   - Find an item quickly to get a bonus skip. 
