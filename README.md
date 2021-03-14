@@ -2,12 +2,23 @@
 Goaround is a small start which is being inspired from the Digital Well being experiments initiated by google recently.
 
 # What is it?
-What do you think if i say "to unlock your phone, **goaround** and scan a flower vase". The idea is, have fun with your phone but without stress yourself by engulfing into the game by sitting in the same place. Instead of playing in virtual world, make a move and bring your real world into game.
+Goaround is a small start to bring your real world into game.
 
-To be concise, It is a kind of treasure hunt or puzzle. But you have to **go around** to find your treasure.
+The idea is, have fun with your phone but without stress yourself by engulfing into the game by sitting in the same place. Instead of playing in virtual world, make a move and bring your real world into game.
+
+To be concise, It is a kind of treasure hunt or puzzle. But you have to go around to find your treasure.
+
 - go around and find the number plate that has numbers totalling to 5
 - go around and find the 5 rupees coin with year of 2016
 - go around and find the harley davidson bike
+
+How to play?
+
+- Install the app, tap the home screen.
+- Find the items in the list, focus on the camera and tap on top of the name 
+- Swipe up to see what is happening in the background. For eg., While you capture the laptop, the app may see that as computer keyboard due to the visible area. So adjust your angle and capture it again. 
+
+Look for more play options, environment wise list and multi player options in the future.
 
 # How can it be done?
 This can be achieved with,
