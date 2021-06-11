@@ -18,7 +18,7 @@ How to play?
 - Find the items in the list, focus on the camera and tap on top of the name 
 - Swipe up to see what is happening in the background. For eg., While you capture the laptop, the app may see that as computer keyboard due to the visible area. So adjust your angle and capture it again. 
 
-Look for more play options, environment wise list and multi player options in the future.
+Look for more play options in the future.
 
 # How can it be done?
 This can be achieved with,
@@ -45,6 +45,12 @@ Auto bubble up to hint if you have captured something, but the game is seeing th
 
 # On playstore
 https://play.google.com/store/apps/details?id=tech.plugndo.goaround
+
+# v1.4 [Publishing to playstore]
+- See a nice advice whenever you go around, adviceslip api integrated.
+- Play with your buddy, Go dual
+  - Pair your mobile with bluetooth
+  - Swipe right to share the challenge to your buddy
 
 # v1.3.1
 - Tech debts and UI improvements
