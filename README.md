@@ -1,5 +1,5 @@
 # GoAround - Make a move, bring your real world into the game.
-Goaround is a small start which is being inspired from the Digital Well being experiments initiated by google recently.
+Goaround is a small start which is being inspired from the "apps that part of Digital Well being experiments from google".
 
 # What is it?
 Goaround is a small start to bring your real world into game.
