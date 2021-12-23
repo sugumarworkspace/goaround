@@ -46,7 +46,13 @@ Auto bubble up to hint if you have captured something, but the game is seeing th
 # On playstore
 https://play.google.com/store/apps/details?id=tech.plugndo.goaround
 
-# v1.4 [Publishing to playstore]
+# v2.0 [Publishing in play store]
+- New year, new look, new power.
+- Get ready to go cross-platform, goaround powered with Flutter.
+- Reduce eye strain, dark mode added.
+- No more precise tap on the card. Since the full-screen mode is enabled, tap directly on the screen.
+
+# v1.4
 - See a nice advice whenever you go around, adviceslip api integrated.
 - Play with your buddy, Go dual
   - Pair your mobile with bluetooth
