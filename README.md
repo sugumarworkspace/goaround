@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/goaround_logo.png" width="256" title="Github Logo">
+</p>
+
 # GoAround - Make a move, bring your real world into the game.
 Goaround is a small start which is being inspired from the "apps that part of Digital Well being experiments from google".
 
