@@ -14,18 +14,18 @@ To be concise, It is a kind of treasure hunt or puzzle. But you have to go aroun
 
 How to play?
 
-- Install the app, tap the home screen.
-- Find the items in the list, focus on the camera and tap on top of the name 
-- Swipe up to see what is happening in the background. For eg., While you capture the laptop, the app may see that as computer keyboard due to the visible area. So adjust your angle and capture it again. 
+- Install the app.
+- Find the items in the list, focus on the camera and tap on <s>top of the name</s> the screen. 
+- Bubble msg will show what is happening in the background. For eg., While you capture the laptop, the app may see that as computer keyboard due to the visible area. So adjust your angle and capture it again. 
 
 Look for more play options in the future.
 
 # How can it be done?
 This can be achieved with,
-- Few cups of coffee
-- Java
+- Java and Flutter
 - Tensorflow Lite
 - Firebase
+- Few cups of coffee
 - Obviously, your support and suggesstions
 
 # How will it be?
