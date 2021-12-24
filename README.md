@@ -50,7 +50,7 @@ Auto bubble up to hint if you have captured something, but the game is seeing th
 # On playstore
 https://play.google.com/store/apps/details?id=tech.plugndo.goaround
 
-# v2.0 [Publishing in play store]
+# v2.0
 - New year, new look, new power.
 - Get ready to go cross-platform, goaround powered with Flutter.
 - Reduce eye strain, dark mode added.
