@@ -42,38 +42,38 @@ This can be achieved with,
 ## Go Around
 
 <p align="center">
-<figure align="left">
+<figure align="center">
   <img src="https://github.com/sugumarworkspace/goaround/blob/master/home.png" width="256" title="Github Logo"/>
-  <figcaption align = "left">home screen</figcaption>
+  <figcaption align = "center">home screen</figcaption>
 </figure>
-<figure align="left">
+<figure align="center">
   <img src="https://github.com/sugumarworkspace/goaround/blob/master/screen_1.png" width="256" title="Github Logo"/>
-   <figcaption align = "left">find items from the list
+   <figcaption align = "center">find items from the list
    </figcaption>
 </figure>
-<figure align="left">
+<figure align="center">
   <img src="https://github.com/sugumarworkspace/goaround/blob/master/Screen_2.png" width="256" title="Github Logo"/>
-   <figcaption align = "left">bubble up notications to help</figcaption>
+   <figcaption align = "center">bubble up notications to help</figcaption>
 </figure>
 </p>
 
 ## Flip Around
 
 <p align="center">
-<figure align="left">
-  <figcaption align = "left">home screen</figcaption>
+<figure align="center">
+  <figcaption align = "center">home screen</figcaption>
   <img src="https://github.com/sugumarworkspace/goaround/blob/master/fliparound_homescreen.png" width="256" title="Github Logo"/>
 </figure>
-<figure align="left">
-  <figcaption align = "left">puzzle board</figcaption>
+<figure align="center">
+  <figcaption align = "center">puzzle board</figcaption>
   <img src="https://github.com/sugumarworkspace/goaround/blob/master/fliparound_board.png" width="256" title="Github Logo"/>
 </figure>
-<figure align="left">
-  <figcaption align = "left">flip around find items</figcaption>
+<figure align="center">
+  <figcaption align = "center">flip around find items</figcaption>
   <img src="https://github.com/sugumarworkspace/goaround/blob/master/fliparound_partialboard.png" width="256" title="Github Logo"/>
 </figure>
-<figure align="left">
-  <figcaption align = "left">meet mr. flippy on completion</figcaption>
+<figure align="center">
+  <figcaption align = "center">meet mr. flippy on completion</figcaption>
   <img src="https://github.com/sugumarworkspace/goaround/blob/master/fliparound_finish.png" width="256" title="Github Logo"/>
 </figure>
 </p>
