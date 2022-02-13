@@ -41,44 +41,40 @@ This can be achieved with,
 
 ## Go Around
 
-<p align="left">
+<p align="center">
 <figure align="left">
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/home.png" width="256" title="Github Logo">
-  <figcaption align = "left"><b>home screen</b></figcaption>
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/home.png" width="256" title="Github Logo"/>
+  <figcaption align = "left">home screen</figcaption>
 </figure>
 <figure align="left">
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/screen_1.png" width="256" title="Github Logo">
-   <figcaption align = "left"><b>find items from the list</b>
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/screen_1.png" width="256" title="Github Logo"/>
+   <figcaption align = "left">find items from the list
    </figcaption>
 </figure>
 <figure align="left">
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/Screen_2.png" width="256" title="Github Logo">
-   <figcaption align = "left"><b>bubble up notications to help</b></figcaption>
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/Screen_2.png" width="256" title="Github Logo"/>
+   <figcaption align = "left">bubble up notications to help</figcaption>
 </figure>
 </p>
 
 ## Flip Around
 
-<p align="left">
+<p align="center">
 <figure align="left">
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/fliparound_homescreen.png" width="256" title="Github Logo">
-     <figcaption align = "left"><b>home screen</b>
-     </figcaption>
+  <figcaption align = "left">home screen</figcaption>
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/fliparound_homescreen.png" width="256" title="Github Logo"/>
 </figure>
 <figure align="left">
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/fliparound_board.png" width="256" title="Github Logo">
-     <figcaption align = "left"><b>puzzle board</b>
-     </figcaption>
+  <figcaption align = "left">puzzle board</figcaption>
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/fliparound_board.png" width="256" title="Github Logo"/>
 </figure>
 <figure align="left">
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/fliparound_partialboard.png" width="256" title="Github Logo">
-     <figcaption align = "left"><b>flip around find items</b>
-     </figcaption>
+  <figcaption align = "left">flip around find items</figcaption>
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/fliparound_partialboard.png" width="256" title="Github Logo"/>
 </figure>
 <figure align="left">
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/fliparound_finish.png" width="256" title="Github Logo">
-     <figcaption align = "left"><b>meet mr. flippy on compeltion</b>
-     </figcaption>
+  <figcaption align = "left">meet mr. flippy on completion</figcaption>
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/fliparound_finish.png" width="256" title="Github Logo"/>
 </figure>
 </p>
 
