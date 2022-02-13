@@ -43,17 +43,17 @@ This can be achieved with,
 
 <p align="center">
 <figure align="center">
+  <figcaption align = "center"><b>home screen</b></figcaption>
   <img src="https://github.com/sugumarworkspace/goaround/blob/master/home.png" width="256" title="Github Logo"/>
-  <figcaption align = "center">home screen</figcaption>
 </figure>
 <figure align="center">
+ <figcaption align = "center"><b>find items from the list</b>
+  </figcaption>
   <img src="https://github.com/sugumarworkspace/goaround/blob/master/screen_1.png" width="256" title="Github Logo"/>
-   <figcaption align = "center">find items from the list
-   </figcaption>
 </figure>
 <figure align="center">
+  <figcaption align = "center"><b>bubble up notications to help</b></figcaption>
   <img src="https://github.com/sugumarworkspace/goaround/blob/master/Screen_2.png" width="256" title="Github Logo"/>
-   <figcaption align = "center">bubble up notications to help</figcaption>
 </figure>
 </p>
 
@@ -61,19 +61,19 @@ This can be achieved with,
 
 <p align="center">
 <figure align="center">
-  <figcaption align = "center">home screen</figcaption>
+  <figcaption align = "center"><b>home screen</b></figcaption>
   <img src="https://github.com/sugumarworkspace/goaround/blob/master/fliparound_homescreen.png" width="256" title="Github Logo"/>
 </figure>
 <figure align="center">
-  <figcaption align = "center">puzzle board</figcaption>
+  <figcaption align = "center"><b>puzzle board</b></figcaption>
   <img src="https://github.com/sugumarworkspace/goaround/blob/master/fliparound_board.png" width="256" title="Github Logo"/>
 </figure>
 <figure align="center">
-  <figcaption align = "center">flip around find items</figcaption>
+  <figcaption align = "center"><b>flip around find items</b></figcaption>
   <img src="https://github.com/sugumarworkspace/goaround/blob/master/fliparound_partialboard.png" width="256" title="Github Logo"/>
 </figure>
 <figure align="center">
-  <figcaption align = "center">meet mr. flippy on completion</figcaption>
+  <figcaption align = "center"><b>meet mr. flippy on completion</b></figcaption>
   <img src="https://github.com/sugumarworkspace/goaround/blob/master/fliparound_finish.png" width="256" title="Github Logo"/>
 </figure>
 </p>
