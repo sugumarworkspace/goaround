@@ -38,27 +38,7 @@ This can be achieved with,
 - Obviously, your support and suggesstions
 
 # How will it be?
-
-## Go Around
-
-<p align="center">
-<figure align="center">
-  <figcaption align = "center"><b>home screen</b></figcaption>
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/home.png" width="256" title="Github Logo"/>
-</figure>
-<figure align="center">
- <figcaption align = "center"><b>find items from the list</b>
-  </figcaption>
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/screen_1.png" width="256" title="Github Logo"/>
-</figure>
-<figure align="center">
-  <figcaption align = "center"><b>bubble up notications to help</b></figcaption>
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/Screen_2.png" width="256" title="Github Logo"/>
-</figure>
-</p>
-
 ## Flip Around
-
 <p align="center">
 <figure align="center">
   <figcaption align = "center"><b>home screen</b></figcaption>
@@ -75,6 +55,23 @@ This can be achieved with,
 <figure align="center">
   <figcaption align = "center"><b>meet mr. flippy on completion</b></figcaption>
   <img src="https://github.com/sugumarworkspace/goaround/blob/master/fliparound_finish.png" width="256" title="Github Logo"/>
+</figure>
+</p>
+
+## Go Around
+<p align="center">
+<figure align="center">
+  <figcaption align = "center"><b>home screen</b></figcaption>
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/home.png" width="256" title="Github Logo"/>
+</figure>
+<figure align="center">
+ <figcaption align = "center"><b>find items from the list</b>
+  </figcaption>
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/screen_1.png" width="256" title="Github Logo"/>
+</figure>
+<figure align="center">
+  <figcaption align = "center"><b>bubble up notications to help</b></figcaption>
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/Screen_2.png" width="256" title="Github Logo"/>
 </figure>
 </p>
 
