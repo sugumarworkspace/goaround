@@ -73,12 +73,19 @@ This can be achieved with,
   <figcaption align = "center"><b>bubble up notications to help</b></figcaption>
   <img src="https://github.com/sugumarworkspace/goaround/blob/master/Screen_2.png" width="256" title="Github Logo"/>
 </figure>
+<figure align="center">
+  <figcaption align = "center"><b>step to skip</b></figcaption>
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/stepcount.png" width="256" title="Github Logo"/>
+</figure>
 </p>
 
 # On playstore
 
 https://play.google.com/store/apps/details?id=tech.plugndo.goaround
 
+# v2.1 Go around, step to skip
+
+- Go around "step to skip", now get skip for every 40 steps.
 # v2.0.1 Flip around, a simple classic puzzle mode
 
 - Play just like that without rules and timers, flip go around - a lighter version of go around.
