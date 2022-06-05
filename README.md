@@ -74,7 +74,7 @@ This can be achieved with,
   <img src="https://github.com/sugumarworkspace/goaround/blob/master/Screen_2.png" width="256" title="Github Logo"/>
 </figure>
 <figure align="center">
-  <figcaption align = "center"><b>step to skip</b></figcaption>
+  <figcaption align = "center"><b>step to skip, every 40 steps get a skip</b></figcaption>
   <img src="https://github.com/sugumarworkspace/goaround/blob/master/stepcount.png" width="256" title="Github Logo"/>
 </figure>
 </p>
