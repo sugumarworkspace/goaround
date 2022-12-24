@@ -83,6 +83,26 @@ This can be achieved with,
 
 https://play.google.com/store/apps/details?id=tech.plugndo.goaround
 
+
+# v2.2 Go around, now goARound (preview)
+* goaround now go**AR**ound, the game enabled with A(ugmented)R(eality) feature as a preview.
+* Shake your mobile to shift to the AR mode.
+<figure align="center">
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/shake_your_mobile.png" width="256" title="Github Logo"/>
+</figure>
+* Click **Fill ARound me** to fill the rooms with AR boxes.
+<figure align="center">
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/fill_around_me.png" width="256" title="Github Logo"/>
+</figure>
+* go ARound and tap the boxes, more boxes will be filled around if you missed to tap a box.  
+<figure align="center">
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/filled_with_boxes_1.png" width="256" title="Github Logo"/>
+</figure>
+<figure align="center">
+  <img src="https://github.com/sugumarworkspace/goaround/blob/master/filled_with_boxes_2.png" width="256" title="Github Logo"/>
+</figure>
+
+*this is a preview/trial version. In the upcoming release, all these AR boxes will be converted into laptop, mouse, and others objects currently in the list to go around and search. So the same game can be played with real-world objects as well AR objects.* 
 # v2.1 Go around, step to skip
 
 - Go around "step to skip", now get skip for every 40 steps.
