@@ -83,6 +83,9 @@ This can be achieved with,
 
 https://play.google.com/store/apps/details?id=tech.plugndo.goaround
 
+# v2.3 Go aorund with more items to find
+* Go aorund longggg, model trained with more items to recognize. Are you ready to search all?
+* Code improvements
 
 # v2.2 Go around, now goARound (preview)
 * goaround now go**AR**ound, the game enabled with A(ugmented)R(eality) feature as a preview.
