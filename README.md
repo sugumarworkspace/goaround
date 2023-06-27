@@ -83,8 +83,8 @@ This can be achieved with,
 
 https://play.google.com/store/apps/details?id=tech.plugndo.goaround
 
-# v2.3 Go around, to find long list of items
-* Go around longggg, app trained with more items to recognize. Are you ready to search all?
+# v2.3 Go around to uncover a vast list of items
+* Go around longggg, app trained with more items to recognize. Are you ready to search it in the real world?
 * Code improvements
 
 # v2.2 Go around, now goARound (preview)
