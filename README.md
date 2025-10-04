@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/goaround_logo.png" width="256" title="Github Logo">
+  <img src="goaround_logo.png" width="256" title="GoAround Logo">
 </p>
 
 # GoAround - Make a move, bring your real world into the game.
@@ -38,50 +38,37 @@ This can be achieved with,
 - Obviously, your support and suggesstions
 
 # How will it be?
-## Flip Around
-<p align="center">
-<figure align="center">
-  <figcaption align = "center"><b>home screen</b></figcaption>
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/fliparound_homescreen.png" width="256" title="Github Logo"/>
-</figure>
-<figure align="center">
-  <figcaption align = "center"><b>puzzle board</b></figcaption>
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/fliparound_board.png" width="256" title="Github Logo"/>
-</figure>
-<figure align="center">
-  <figcaption align = "center"><b>flip around find items</b></figcaption>
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/fliparound_partialboard.png" width="256" title="Github Logo"/>
-</figure>
-<figure align="center">
-  <figcaption align = "center"><b>meet mr. flippy on completion</b></figcaption>
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/fliparound_finish.png" width="256" title="Github Logo"/>
-</figure>
-</p>
 
 ## Go Around
 <p align="center">
 <figure align="center">
-  <figcaption align = "center"><b>home screen</b></figcaption>
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/home.png" width="256" title="Github Logo"/>
+  <figcaption align = "center"><b>Welcome screen</b></figcaption>
+  <img src="home.png" width="256" title="Home Screen"/>
 </figure>
 <figure align="center">
- <figcaption align = "center"><b>find items from the list</b>
+ <figcaption align = "center"><b>Game screen</b>
   </figcaption>
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/screen_1.png" width="256" title="Github Logo"/>
+  <img src="screen_1.png" width="256" title="Find items from the list"/>
 </figure>
 <figure align="center">
   <figcaption align = "center"><b>bubble up notications to help</b></figcaption>
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/Screen_2.png" width="256" title="Github Logo"/>
+  <img src="screen_2.png" width="256" title="Bubble up notifications to help"/>
 </figure>
 <figure align="center">
-  <figcaption align = "center"><b>step to skip, every 40 steps get a skip</b></figcaption>
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/stepcount.png" width="256" title="Github Logo"/>
+  <figcaption align = "center"><b>step to skip, every 80 steps get a score/skip</b></figcaption>
+  <img src="stepcount.png" width="256" title="Step to skip"/>
 </figure>
 </p>
 
 # On playstore
 
-https://play.google.com/store/apps/details?id=tech.plugndo.goaround
+TBA
+
+# v3.0.1 
+* Upgraded to latest Dart SDK for compatibility and new features.  
+* YOLO model integrated for improved recognition and object detection.  
+* User interface updated for a modern look and better experience.  
+* Performance improvements: faster startup, smoother gameplay, and optimized resource usage.  
 
 # v2.3 Go around to uncover a vast list of items
 * Go around longggg, app trained with more items to recognize. Are you ready to search it in the real world?
@@ -91,18 +78,18 @@ https://play.google.com/store/apps/details?id=tech.plugndo.goaround
 * goaround now go**AR**ound, the game enabled with A(ugmented)R(eality) feature as a preview.
 * From the home screen, shake your mobile to shift to the AR mode.
 <figure align="center">
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/shake_your_mobile.png" width="256" title="Github Logo"/>
+  <img src="shake_your_mobile.png" width="256" title="Shake your mobile"/>
 </figure>
 * Click **Fill ARound me** to fill room with AR boxes.
 <figure align="center">
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/fill_around_me.png" width="256" title="Github Logo"/>
+  <img src="fill_around_me.png" width="256" title="Fill ARound me"/>
 </figure>
 * go ARound and tap the boxes, more boxes will be filled around if you missed to tap a box.  So better to be careful while tap on the boxes. ;-) 
 <figure align="center">
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/filled_with_boxes_1.png" width="256" title="Github Logo"/>
+  <img src="filled_with_boxes_1.png" width="256" title="Filled with boxes 1"/>
 </figure>
 <figure align="center">
-  <img src="https://github.com/sugumarworkspace/goaround/blob/master/filled_with_boxes_2.png" width="256" title="Github Logo"/>
+  <img src="filled_with_boxes_2.png" width="256" title="Filled with boxes 2"/>
 </figure>
 
 *this is a preview/trial version. In the upcoming release, all these AR boxes will be converted into laptop, mouse, and others objects currently showin in the go around list. So the same game can be played with real-world objects as well AR objects.* 
