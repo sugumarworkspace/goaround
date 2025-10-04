@@ -52,7 +52,7 @@ This can be achieved with,
 </figure>
 <figure align="center">
   <figcaption align = "center"><b>bubble up notications to help</b></figcaption>
-  <img src="screen_2.png" width="256" title="Bubble up notifications to help"/>
+  <img src="screen_2.1.png" width="256" title="Bubble up notifications to help"/>
 </figure>
 <figure align="center">
   <figcaption align = "center"><b>step to skip, every 80 steps get a score/skip</b></figcaption>
